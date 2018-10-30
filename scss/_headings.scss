@@ -28,7 +28,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: $black;
+  color: darkslategray;
   margin-bottom: $em;
 }
 
@@ -36,20 +36,20 @@ h1 {
   font-size: 2 * $em;
   font-weight: 500;
   line-height: 2.3 * $em;
-  margin-top: 4 * $em;
+  margin-top: 1 * $em;
 }
 
 h2 {
   font-size: 1.4 * $em;
-  font-weight: 400;
+  font-weight: 500;
   line-height: 1.7 * $em;
-  margin-top: 3 * $em;
+  margin-top: 0.8 * $em;
 }
 
 h3 {
   font-size: 1.2 * $em;
   line-height: 1.5 * $em;
-  margin-top: 2 * $em;
+  margin-top: 0.6 * $em;
 }
 
 h4 {

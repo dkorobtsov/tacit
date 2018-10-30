@@ -45,7 +45,7 @@ html {
 body {
   background: darken($white, 4);
   color: lighten($black, 10);
-  padding: 2 * $em;
+  padding: 3 * $em;
 }
 
 p,
@@ -60,7 +60,7 @@ form,
 fieldset,
 figure,
 address {
-  margin-bottom: 1.65 * $em;
+  margin-bottom: 0.6 * $em;
 }
 
 section {
